@@ -42,17 +42,7 @@
           }
         ]
       },
-      {
-        "tab": "API Reference",
-        "icon": "code",
-        "groups": [
-          {
-            "group": "Endpoints",
-            "openapi": "openapi.yaml"
-          }
-        ]
-      },
-      {
+{
         "tab": "Changelog",
         "icon": "clock",
         "pages": [
